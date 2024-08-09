@@ -1,0 +1,8 @@
+name: Micra_Thirtythree
+version: '${version}'
+main: plugin.micra_thirtythree.Main
+api-version: '1.20'
+commands:
+  enemydown:
+  enemyspawn:
+  setmagic:
